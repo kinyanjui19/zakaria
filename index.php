@@ -2,7 +2,8 @@
 
 <?php include "Includes/navbar.php"; ?>
 <script>
-    alert("Welcome")
+    alert("Welcome")git commit
+    
     console.warn(bluedrill careful);
 </script>
 
